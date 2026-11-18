@@ -1,0 +1,39 @@
+tools.py
+  s_a068c69b7af8ba::t_bb6ff982630f1c 1-73
+desktop/plugin.js
+  s_a068c69b7af8ba::t_fc994dd2d166a1 23-28
+  s_a068c69b7af8ba::t_1f862b8e9e3ecd 1-22,29-146
+plugin.yaml
+  s_a068c69b7af8ba::t_4dcf4bd79eb951 1-7
+__init__.py
+  s_a068c69b7af8ba::t_757c5d23599250 1-12
+pytest.ini
+  s_a068c69b7af8ba::t_41c663706c9f82 1-2
+README.md
+  s_a068c69b7af8ba::t_22bbe07668ef42 1-41,43
+  s_a068c69b7af8ba::t_7760a5b964bebe 42
+  s_a068c69b7af8ba::t_827ce11e1bbbcc 44-46
+tests/test_plugin.py
+  s_a068c69b7af8ba::t_356bdecf14490f 1-87
+conftest.py
+  s_a068c69b7af8ba::t_7387767a72dbea 1-2,7,9,11
+  s_a068c69b7af8ba::t_7c77ca9a28a8f3 3-6,8,10,12-22
+schemas.py
+  s_a068c69b7af8ba::t_368a06c3196519 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ea474f31fdb32761addc1d6e6f6d663b417dc70f",
+  "prompts": {},
+  "sessions": {
+    "s_a068c69b7af8ba": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6580f346-6f13-4da9-9f09-d678816a7a8c",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Jovany Leandro G.C <bit4bit@riseup.net>"
+    }
+  }
+}
