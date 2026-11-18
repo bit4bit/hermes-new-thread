@@ -1,0 +1,7 @@
+name: new-thread
+version: 0.1.0
+description: Continue work in a fresh Hermes Desktop chat. Opens a new thread, optionally pins it, and submits a prompt there.
+author: Jovany
+kind: standalone
+provides_tools:
+  - open_thread
